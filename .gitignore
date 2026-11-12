@@ -1,0 +1,19 @@
+# Dependencies and build output
+node_modules/
+dist/
+
+# Local tooling and generated caches
+.playwright-mcp/
+artifacts/
+.impeccable/config.local.json
+.impeccable/hook.cache.json
+scripts/__pycache__/
+
+# Environment and OS files
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# Source/reference material is kept outside the committed app bundle
+REFERENCES/
