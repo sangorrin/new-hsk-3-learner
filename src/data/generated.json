@@ -7720,9 +7720,9 @@
       "lesson": 8,
       "hanzi": "因为我今年胖了十多斤，不能再胖下去了。",
       "pinyin": "Yīnwèi wǒ jīnnián pàngle shí duō jīn, bùnéng zài pàng xiàqùle.",
-      "english": "Because I have gained more than ten kilograms this year and I can’t lose weight anymore.",
+      "english": "Because I’ve gained more than five kilograms this year, I can’t keep gaining weight.",
       "source": "胖",
-      "spanish": "Porque este año he ganado más de diez kilos y ya no puedo adelgazar."
+      "spanish": "Porque he ganado más de cinco kilos este año, no puedo seguir engordando."
     },
     {
       "id": "l8-v6",
@@ -10563,7 +10563,7 @@
       "formula": "量词重叠 (AA) + 都 + 谓语",
       "notes": "Reduplicating a measure word emphasizes that every single member within a scope possesses the quality without exception ('every / each and every').",
       "examples": "1. 这些照片张张都非常好看。(= 每张都好看)\n2. 这些苹果个个都很大。(= 每个都很大)\n3. 我想出去拍照，但是天天下雨。(= 每天都下雨)",
-      "translations": "1. Zhèxiē zhàopiàn zhāngzhāng dōu fēicháng hǎokàn. (Every single one of these photos is beautiful.)\n2. Zhèxiē píngguǒ gègè dōu hěn dà. (Every single one of these apples is big.)\n3. Wǒ xiǎng chūqu pāizhào, dànshì tiāntiān xiàyǔ. (I want to go take photos, but it rains every day.)",
+      "translations": "1. Zhèxiē zhàopiàn zhāngzhāng dōu fēicháng hǎokàn. (Every single one of these photos is beautiful.)\n2. Zhèxiē píngguǒ gègè dōu hěn dà. (Every single one of these apples is big.)\n3. Wǒ xiǎng chūqù pāizhào, dànshì tiāntiān xiàyǔ. (I want to go take photos, but it rains every day.)",
       "spanishName": "Reduplicación de palabras de medida (cada una)",
       "spanishNotes": "La duplicación de una palabra de medida enfatiza que cada miembro dentro de un alcance posee la cualidad sin excepción (\"todos / todos y cada uno\")."
     },
@@ -10683,7 +10683,7 @@
       "formula": "动词 / 形容词 + 下去",
       "notes": "Indicates that an ongoing action or state will continue into the future ('keep on doing', 'continue to be').",
       "examples": "1. 我今年胖了十多斤，不能再胖下去了。\n2. 她读完了第一个问题，后面的你读下去。\n3. 这几天太热了，如果再热下去就不能出门了。",
-      "translations": "1. Wǒ jīnnián pàng le shí duō jīn, bù néng zài pàng xiàqu le. (I gained over 10 jin this year; I can't keep getting fatter.)\n2. Tā dúwán le dì-yī ge wèntí, hòumian de nǐ dú xiàqu. (She read the first question; you continue reading the rest.)\n3. Zhè jǐ tiān tài rè le, rúguǒ zài rè xiàqu jiù bù néng chūmén le. (If it keeps getting hotter, we won't be able to go out.)",
+      "translations": "1. Wǒ jīnnián pàng le shí duō jīn, bù néng zài pàng xiàqu le. (I’ve gained more than five kilograms this year; I can’t keep gaining weight.)\n2. Tā dúwán le dì-yī ge wèntí, hòumian de nǐ dú xiàqu. (She read the first question; you continue reading the rest.)\n3. Zhè jǐ tiān tài rè le, rúguǒ zài rè xiàqu jiù bù néng chūmén le. (If it keeps getting hotter, we won't be able to go out.)",
       "spanishName": "Uso ampliado del complemento direccional (1) '下去' (Continuación)",
       "spanishNotes": "Indica que una acción o estado en curso continuará en el futuro (\"seguir haciendo\", \"continuar siendo\")."
     },
@@ -11019,7 +11019,7 @@
       "formula": "主语 + 一会儿 + 动作/状态₁，一会儿 + 动作/状态₂",
       "notes": "Indicates two distinct, rapidly alternating actions or opposing conditions taking place in a brief timeframe ('now... now...', 'one moment... the next...').",
       "examples": "1. 它一会儿在你脚边睡觉，一会儿在你身上爬。\n2. 他一会儿进来，一会儿出去，忙得很。\n3. 最近天气变化很快，一会儿冷，一会儿热。",
-      "translations": "1. Tā yíhuìr zài nǐ jiǎobiān shuìjiào, yíhuìr zài nǐ shēnshang pá. (One moment it sleeps by your feet, the next it climbs on you.)\n2. Tā yíhuìr jìnlái, yíhuìr chūqu, máng de hěn. (He is in and out one moment after another, busy as can be.)\n3. Zuìjìn tiānqì biànhuà hěn kuài, yíhuìr lěng, yíhuìr rè. (Lately the weather changes rapidly, cold one moment and hot the next.)",
+      "translations": "1. Tā yíhuìr zài nǐ jiǎobiān shuìjiào, yíhuìr zài nǐ shēnshang pá. (One moment it sleeps by your feet, the next it climbs on you.)\n2. Tā yíhuìr jìnlái, yíhuìr chūqù, máng de hěn. (He is in and out one moment after another, busy as can be.)\n3. Zuìjìn tiānqì biànhuà hěn kuài, yíhuìr lěng, yíhuìr rè. (Lately the weather changes rapidly, cold one moment and hot the next.)",
       "spanishName": "Oración compleja coordinada '一会儿……，一会儿……' (acciones/estados alternos)",
       "spanishNotes": "Indica dos acciones distintas, que se alternan rápidamente o condiciones opuestas que tienen lugar en un breve período de tiempo (\"ahora... ahora...\", \"un momento... el siguiente...\")."
     },
@@ -11583,7 +11583,7 @@
       "hanzi": "这些照片张张都非常好看。(= 每张都好看)",
       "english": "Zhèxiē zhàopiàn zhāngzhāng dōu fēicháng hǎokàn. (Every single one of these photos is beautiful.)",
       "source": "量词重叠",
-      "pinyin": "Zhèxiē zhàopiàn zhāngzhāng dōu fēicháng hǎokàn.",
+      "pinyin": "Zhèxiē zhàopiàn zhāngzhāng dōu fēicháng hǎokàn. (= Měi zhāng dōu hǎokàn)",
       "translation": "Every single one of these photos is beautiful.",
       "spanish": "Cada una de estas fotos es hermosa."
     },
@@ -11593,7 +11593,7 @@
       "hanzi": "这些苹果个个都很大。(= 每个都很大)",
       "english": "Zhèxiē píngguǒ gègè dōu hěn dà. (Every single one of these apples is big.)",
       "source": "量词重叠",
-      "pinyin": "Zhèxiē píngguǒ gègè dōu hěn dà.",
+      "pinyin": "Zhèxiē píngguǒ gègè dōu hěn dà. (= Měi gè dōu hěn dà)",
       "translation": "Every single one of these apples is big.",
       "spanish": "Cada una de estas manzanas es grande."
     },
@@ -11601,9 +11601,9 @@
       "id": "l5-g2-p3",
       "lesson": 5,
       "hanzi": "我想出去拍照，但是天天下雨。(= 每天都下雨)",
-      "english": "Wǒ xiǎng chūqu pāizhào, dànshì tiāntiān xiàyǔ. (I want to go take photos, but it rains every day.)",
+      "english": "Wǒ xiǎng chūqù pāizhào, dànshì tiāntiān xiàyǔ. (I want to go take photos, but it rains every day.)",
       "source": "量词重叠",
-      "pinyin": "Wǒ xiǎng chūqu pāizhào, dànshì tiāntiān xiàyǔ.",
+      "pinyin": "Wǒ xiǎng chūqù pāizhào, dànshì tiāntiān xiàyǔ. (= Měitiān dōu xiàyǔ)",
       "translation": "I want to go take photos, but it rains every day.",
       "spanish": "Quiero ir a tomar fotos, pero llueve todos los días."
     },
@@ -11881,11 +11881,11 @@
       "id": "l8-g1-p1",
       "lesson": 8,
       "hanzi": "我今年胖了十多斤，不能再胖下去了。",
-      "english": "Wǒ jīnnián pàng le shí duō jīn, bù néng zài pàng xiàqu le. (I gained over 10 jin this year; I can't keep getting fatter.)",
+      "english": "Wǒ jīnnián pàng le shí duō jīn, bù néng zài pàng xiàqu le. (I’ve gained more than five kilograms this year; I can’t keep gaining weight.)",
       "source": "趋向补语的引申用法(1) “下去”",
       "pinyin": "Wǒ jīnnián pàng le shí duō jīn, bù néng zài pàng xiàqu le.",
-      "translation": "I gained over 10 jin this year; I can't keep getting fatter.",
-      "spanish": "Gané más de 10 jin este año; No puedo seguir engordando."
+      "translation": "I’ve gained more than five kilograms this year; I can’t keep gaining weight.",
+      "spanish": "He ganado más de cinco kilos este año; no puedo seguir engordando."
     },
     {
       "id": "l8-g1-p2",
@@ -12741,9 +12741,9 @@
       "id": "l16-g1-p2",
       "lesson": 16,
       "hanzi": "他一会儿进来，一会儿出去，忙得很。",
-      "english": "Tā yíhuìr jìnlái, yíhuìr chūqu, máng de hěn. (He is in and out one moment after another, busy as can be.)",
+      "english": "Tā yíhuìr jìnlái, yíhuìr chūqù, máng de hěn. (He is in and out one moment after another, busy as can be.)",
       "source": "并列复句“一会儿……，一会儿……”",
-      "pinyin": "Tā yíhuìr jìnlái, yíhuìr chūqu, máng de hěn.",
+      "pinyin": "Tā yíhuìr jìnlái, yíhuìr chūqù, máng de hěn.",
       "translation": "He is in and out one moment after another, busy as can be.",
       "spanish": "Entra y sale un momento tras otro, muy ocupado."
     },
